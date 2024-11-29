@@ -11,7 +11,7 @@ GitHub Profile Finder is a web application that allows users to search for GitHu
 
 ## Demo
 
-[Add a link to a live demo if available.]
+![Screenshot 2024-11-29 140557](https://github.com/user-attachments/assets/96762ea4-6661-4e7d-bdf1-ebbee7e6beee)
 
 ## Technologies Used
 
