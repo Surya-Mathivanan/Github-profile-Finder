@@ -16,7 +16,6 @@ GitHub Profile Finder is a web application that allows users to search for GitHu
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: [If applicable, mention backend frameworks or APIs used]
 - **API**: GitHub REST API
 
 ## Setup Instructions
